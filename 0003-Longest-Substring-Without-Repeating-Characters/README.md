@@ -29,7 +29,4 @@ Notice that the answer must be a substring, "pwke" is a subsequence and not a su
 ## 解題概念：
 目的是要找到`s`字串中`最長且字符不重複`的子字串長度，因此使用「滑動窗口（Sliding Window）」的方法解決，藉由左右兩個指標遍歷整個字串，確認子字串的最大長度。
 
-## 參考連結：
-
-
 - Time: 74ms (67.59%) | Space: 47.27MB (59.16%) | Medium
